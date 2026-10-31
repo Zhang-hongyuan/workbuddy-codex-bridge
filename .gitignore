@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+# ── 开源护栏：缓存与凭据私密文件禁入名单 ──
+.pytest_cache/
+*.bak-*
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*credentials*
+*secret*
+dispatch-*.json
+WATCH_ANCHOR_*.json
+*.log

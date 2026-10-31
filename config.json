@@ -1,0 +1,4 @@
+{
+  "default_model": "gpt-6.1-sol",
+  "_comment": "默认模型。改这里即切换桥的全部默认派单模型，热加载无需动代码。可用值以 codex model/list 白名单为准；命令行 --model 优先级高于本配置。"
+}
